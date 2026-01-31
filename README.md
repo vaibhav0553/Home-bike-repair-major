@@ -1,7 +1,6 @@
 # Home Bike Repair Solutions 🚲🔧
 
-A full-stack web application designed to provide home-based bike repair assistance.  
-The platform helps users explore bike repair guides, search spare parts, and find nearby mechanics based on their specialization.
+A full stack web application designed to provide home based bike repair assistance
 
 This project is developed as a **Final Year Major Project**.
 
@@ -16,7 +15,7 @@ Existing solutions lack a centralized platform that combines repair guidance, sp
 - Help users find nearby mechanics based on expertise  
 - Offer spare parts search with pricing (mock data)  
 - Create a simple and user-friendly interface  
-- Demonstrate full-stack web development concepts  
+- Demonstrate full stack web development concepts  
 
 
 ## ⚙️ Key Features
@@ -29,11 +28,11 @@ Existing solutions lack a centralized platform that combines repair guidance, sp
 
 
 ## 🛠️ Tech Stack
-### Frontend
+### Front end
 - React.js  
 - Axios  
 
-### Backend
+### Back end
 - Node.js  
 - Express.js  
 
@@ -49,7 +48,7 @@ Existing solutions lack a centralized platform that combines repair guidance, sp
 
 ## 🚀 Future Enhancements
 - MongoDB or MySQL integration  
-- Real-time location-based mechanic search  
+- Real time location-based mechanic search  
 - Online booking and payment system  
 - User authentication with JWT  
 - Mobile application version  
@@ -65,8 +64,9 @@ Existing solutions lack a centralized platform that combines repair guidance, sp
 
 ## 👨‍🎓 Academic Details
 - Project Type: **Final Year Major Project**
+  The idea was inspired by common issues faed by two wheelers in daily life.
 - Domain: Web Development
-- Developed By: Vaibhav S
+- Developed By: Vaibhav Salawat
 - Technology: MERN Stack (without database)
 
 
